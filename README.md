@@ -1,1 +1,3 @@
-# Memory-Game
+# Memory Game
+
+Swift implementation for iOS.
